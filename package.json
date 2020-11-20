@@ -10,13 +10,15 @@
     "client": "cd client && npm run start",
     "install": "cd client && npm install",
     "build": "cd client && npm run build",
-    "heroku-postbuild": "npm run build"
+    "postinstall": "npm run seed",
+    "heroku-postbuild": "npm run build",
+    "seed": "cd seeds && node seed.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^4.1.0",
-    "nodemon": "^1.18.7"
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
     "axios": "^0.21.0",
