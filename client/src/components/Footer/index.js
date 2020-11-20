@@ -5,7 +5,7 @@ function Footer() {
     <footer>
       <hr />
       <p className="pull-right">
-        <i className="fab fa-github" /> FSC Web Design
+        <i className="fab fa-github" /> Group 8
       </p>
     </footer>
   );
