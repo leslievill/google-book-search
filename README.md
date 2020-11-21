@@ -17,6 +17,7 @@ In this class activity, you'll create a new React-based Google Books Search app.
 * npx create-react-app (folder-name) 
 
 it will generate your models and structure folders
+
 ![models](assets/models.png)
 
 
@@ -38,9 +39,9 @@ Once you are done with your code, go to the folder's directory and run the follo
 MIT License
   
 ## Contributors
-   [Biencarlo Villa](https://github.com/biencarlovilla)
-   [Leslie Villatoro](https://github.com/leslievill)
-   [Ken Tanoue](https://github.com/kent28808)
+  * [Biencarlo Villa](https://github.com/biencarlovilla)
+  * [Leslie Villatoro](https://github.com/leslievill)
+  * [Ken Tanoue](https://github.com/kent28808)
    
 ## Deployed-Link
-  [Live ](https://biencarlovilla.github.io/Employee-Directory/)
+  [Live Demo](https://team8googlesearch.herokuapp.com/)
